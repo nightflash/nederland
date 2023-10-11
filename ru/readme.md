@@ -11,7 +11,10 @@
 
 Оглавление русскоязычной версии:
 
-* [Документы на первое время](documents/documents.md)
-* [Аренда недвижимости](housing/rent.md)
-* [Покупка недвижимости](housing/buy.md)
+* Документы
+  * [Основные документы - Permit, BSN, DigiD](./documents/documents.md)
+  * [Доверенности для страны исхода](./documents/notary.md)
+* Недвижимость 
+  * [Аренда](./housing/rent.md)
+  * [Покупка](./housing/buy.md)
 * [Здоровье и медицина](./medicine/medicine.md)

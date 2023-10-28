@@ -1,5 +1,5 @@
 # Guide about life in NL
 
-* [Russian version](./ru/readme.md)
+* [Russian version](./ru)
 
 Other languages to be continued...

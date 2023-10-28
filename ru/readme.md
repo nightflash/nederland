@@ -12,10 +12,10 @@
 Оглавление русскоязычной версии:
 
 * Документы
-  * [Основные документы - Permit, BSN, DigiD](./documents/documents.md)
+  * [Основные документы - Permit, BSN, DigiD](./documents)
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
 * Недвижимость 
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)
-* [Здоровье и медицина](./medicine/medicine.md)
+* [Здоровье и медицина](./medicine)

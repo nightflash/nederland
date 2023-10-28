@@ -64,4 +64,5 @@ https://www.amstelveen.nl/regelen-aanvragen/product/immigratie-en-inburgering_ee
 
 ## Читайте также
 
-[Доверенности для страны исхода](./notary.md)
+* [Доверенности для страны исхода](./notary.md)
+* [Ребенок рожденный в Нидерландах](./newborn.md)

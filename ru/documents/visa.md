@@ -55,10 +55,10 @@
 
 Российские страховки **НЕ ПРИНИМАЮТСЯ!**
 
-- http://www.oomverzekeringen.nl
-- https://www.schengen.insure/en
-- https://swisscare.com/en/wizard
-- https://www.mondialcare.eu/schengen-travel-insurance/
+- [oomverzekeringen.nl](http://www.oomverzekeringen.nl)
+- [schengen.insure](https://www.schengen.insure/en)
+- [swisscare.com](https://swisscare.com/en/wizard)
+- [mondialcare.eu](https://www.mondialcare.eu/schengen-travel-insurance/)
 
 
 ## Подача заявления на визу

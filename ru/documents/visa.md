@@ -25,7 +25,7 @@
 
 В зависимости от Gementee данный документ можно сделать либо полностью онлайн (напр. [Амстердам](https://www.amsterdam.nl/veelgevraagd/bewijs-van-garantstelling-of-onderdak-voor-bezoek-uit-het-buitenland-2f94a#:~:text=Een%20Bewijs%20van%20garantstelling%20of,is%20nodig%20voor%20een%20visum.), Амстелвейн) или [распечатать](https://ind.nl/nl/formulieren/1310.pdf) и затем просто заверить подпись ([legalisatie handtekening](https://www.amsterdam.nl/veelgevraagd/waar-kan-ik-mijn-handtekening-laten-legaliseren-2e812-kp)) в **любой** Хементе.
 
-Если вы проживаете с партнером/супругом и предоставляете жилье, то подписывать документ должны **ОБА ПАРТНЕРА**.
+Если вы не просто предоставляете жилье, но выступаете финансовым гарантом, то подписывать документ должны **ОБА ПАРТНЕРА**.
 
 Спонсорское письмо нужно предоставлять в **ОРИГИНАЛЕ**, это значит его будет необходимо переправить в РФ (почтой или с кем-то по пути).
 

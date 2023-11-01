@@ -15,6 +15,7 @@
   * [Основные документы - Permit, BSN, DigiD](./documents/docs.md)
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
+  * [Виза в Нидерланды для родственников](./documents/visa.md)
 * Недвижимость 
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)

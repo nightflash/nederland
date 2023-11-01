@@ -11,8 +11,8 @@
 
 Оглавление русскоязычной версии:
 
-* Документы
-  * [Основные документы - Permit, BSN, DigiD](./documents)
+* [Документы](./documents)
+  * [Основные документы - Permit, BSN, DigiD](./documents/docs.md)
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
 * Недвижимость 

@@ -20,3 +20,5 @@
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)
 * [Здоровье и медицина](./medicine)
+  * [Страховка и как ее выбрать](./medicine/insurance.md)
+  * [Амбулаторная и экстренная помощь](./medicine/gp.md)

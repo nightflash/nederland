@@ -21,10 +21,11 @@
 ## Визовый центр
 
 **Vfs Global**
+
 Адрес: Каширское ш., 3, корп. 2, стр. 4, Москва • БЦ Сириус Парк, этаж 2
 
-[Ссылка на яндекс карты](https://yandex.ru/maps/org/vfs_global/196140491828/?ll=37.631460%2C55.672488&z=15)
-[Ссылка на Google карты](https://www.google.com/maps/place/Vizovyy+Tsentr+Niderlandov/@55.6723877,37.0330386,9z/data=!4m12!1m2!2m1!1svfs+global+moscow+netherlands!3m8!1s0x46b54b19b760244d:0x78c95b8dcf8c72c0!8m2!3d55.6723877!4d37.6311394!9m1!1b1!15sCh12ZnMgZ2xvYmFsIG1vc2NvdyBuZXRoZXJsYW5kcyIDiAEBkgERZm9yZWlnbl9jb25zdWxhdGXgAQA!16s%2Fg%2F11fkrw9k2c?entry=ttu)
+* [Ссылка на яндекс карты](https://yandex.ru/maps/org/vfs_global/196140491828/?ll=37.631460%2C55.672488&z=15)
+* [Ссылка на Google карты](https://www.google.com/maps/place/Vizovyy+Tsentr+Niderlandov/@55.6723877,37.0330386,9z/data=!4m12!1m2!2m1!1svfs+global+moscow+netherlands!3m8!1s0x46b54b19b760244d:0x78c95b8dcf8c72c0!8m2!3d55.6723877!4d37.6311394!9m1!1b1!15sCh12ZnMgZ2xvYmFsIG1vc2NvdyBuZXRoZXJsYW5kcyIDiAEBkgERZm9yZWlnbl9jb25zdWxhdGXgAQA!16s%2Fg%2F11fkrw9k2c?entry=ttu)
 
 ## Приглашение (спонсорское письмо)
 
@@ -109,9 +110,9 @@
 
 Визовую анкету необходимо **заполнять на компьютере**, заполненные от руки не принимаются!
 
-[Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
-[Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
-[Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
+* [Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
+* [Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
+* [Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
 
 ## Сроки
 

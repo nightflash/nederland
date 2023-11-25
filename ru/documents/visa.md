@@ -92,10 +92,18 @@
 - также будет нужно выбрать **пол** и **гражданство**, но это делается через компонент с опциями, скопировать результат не получится
 
 
-Во время оформления слота (записи в визовый центр) анкеты есть шаг со страховкой, его **НАДО ПРОПУСКАТЬ** (см. ниже)!!!
+Во время оформления слота (записи в визовый центр) есть шаг со страховкой, его **НАДО ПРОПУСКАТЬ** (см. ниже)!!!
 
 <div style="text-align: center"><img src="images/visa-insurance-1.png" width="500"/></div>
 <div style="text-align: center"><img src="images/visa-insurance-2.png" width="500"/></div>
+
+## Визовая анкета
+
+Визовую анкету необходимо **заполнять на компьютере**, заполненные от руки не принимаются!
+
+[Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
+[Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
+[Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
 
 ## Сроки
 

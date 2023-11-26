@@ -110,6 +110,8 @@
 
 Визовую анкету необходимо **заполнять на компьютере**, заполненные от руки не принимаются!
 
+Визовая анкета заполняется на **АНГЛИЙСКОМ** языке. 
+
 * [Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
 * [Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
 * [Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)

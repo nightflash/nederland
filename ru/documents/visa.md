@@ -20,7 +20,7 @@
 
 ## Визовый центр
 
-(Vfs Global)[https://visa.vfsglobal.com/rus/ru/nld/attend-centre/moscow]
+[Vfs Global](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/moscow)
 
 Адрес: Каширское ш., 3, корп. 2, стр. 9, Москва • БЦ Сириус Парк, этаж 2
 

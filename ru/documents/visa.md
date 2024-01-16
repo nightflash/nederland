@@ -130,9 +130,19 @@ _* Для онлайн приглашения сделанного через х
 
 Визовая анкета заполняется на **АНГЛИЙСКОМ** языке. 
 
+Ссылки на PDF файлы, для их редактирования понадобится какая-либо программа, либо встроенный Preview на Mac OS, либо что-то от Adobe на Mac/Windows.
+
 * [Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
 * [Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
 * [Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
+
+**Для тех кто не хочет/умеет работать с PDF**:
+
+* Открываем [эту ссылку](https://docs.google.com/document/d/14BBtJZ5_bpfQqGHumY3gXMXhzqVAyWDDUe3nfBw9-CM/edit).
+* Слева сверху нажимаем **Файл** -> **Скачать** -> **Microsoft Word** и заполняем офлайн.
+* ИЛИ Слева сверху нажимаем **Файл** -> **Создать копию** и заполняем онлайн.
+
+**Не запрашивайте права на редактирования файла по ссылке**, следуйте инструкции выше, чтобы скачать локальную копию, или создать облачную в своем google drive.
 
 ## Сроки
 

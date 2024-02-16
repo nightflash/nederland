@@ -132,7 +132,7 @@ _* Для онлайн приглашения сделанного через х
 
 **Для тех кто не хочет/умеет работать с PDF**:
 
-* Открываем [эту ссылку](https://docs.google.com/document/d/14BBtJZ5_bpfQqGHumY3gXMXhzqVAyWDDUe3nfBw9-CM/edit).
+* Открываем [эту ссылку](https://docs.google.com/document/d/1Mi_KMv5M9HLbHS00M-IKUKw3Ltxp0y7h--TWOzFiJWk/edit).
 * Слева сверху нажимаем **Файл** → **Скачать** → **Microsoft Word** и заполняем офлайн.
 
 **ИЛИ**

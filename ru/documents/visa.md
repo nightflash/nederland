@@ -34,7 +34,7 @@
 * Спонсорство (покрытие всех расходов связанных с пребыванием)
 * Предоставление размещения (жилья)
 
-В зависимости от Gementee данный документ можно сделать либо полностью онлайн (напр. [Амстердам](https://www.amsterdam.nl/veelgevraagd/bewijs-van-garantstelling-of-onderdak-voor-bezoek-uit-het-buitenland-2f94a#:~:text=Een%20Bewijs%20van%20garantstelling%20of,is%20nodig%20voor%20een%20visum.)*, Амстелвейн) или [распечатать](https://ind.nl/nl/formulieren/1310.pdf) и затем просто заверить подпись ([legalisatie handtekening](https://www.amsterdam.nl/veelgevraagd/waar-kan-ik-mijn-handtekening-laten-legaliseren-2e812-kp)) в **любой** Хементе.
+В зависимости от Gementee данный документ можно сделать либо полностью онлайн (напр. [Амстердам](https://www.amsterdam.nl/veelgevraagd/bewijs-van-garantstelling-of-onderdak-voor-bezoek-uit-het-buitenland-2f94a#:~:text=Een%20Bewijs%20van%20garantstelling%20of,is%20nodig%20voor%20een%20visum.)*, [Амстелвейн](https://www.amstelveen.nl/regelen-aanvragen/product/identiteitsbewijs-rijbewijs-en-uittreksel_uittreksels-en-registers_bezoek-uit-het-buitenland-ontvangen#:~:text=Als%20u%20bezoek%20krijgt%20uit,verantwoordelijk%20bent%20voor%20de%20kosten.)) или [распечатать](https://ind.nl/nl/formulieren/1310.pdf) и затем просто заверить подпись ([legalisatie handtekening](https://www.amsterdam.nl/veelgevraagd/waar-kan-ik-mijn-handtekening-laten-legaliseren-2e812-kp)) в **любой** Хементе.
 
 _* Для онлайн приглашения сделанного через хементу Амстердама может не напечататься номер паспорта, его будет нужно вписать руками._
 

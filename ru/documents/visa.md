@@ -91,6 +91,10 @@ _* Для онлайн приглашения сделанного через х
 
 Страховые компании позволяющие застраховать граждан РФ:
 - [oomverzekeringen.nl](http://www.oomverzekeringen.nl)
+  - В зависимости от возраста **есть франшиза** (Eigen risico):
+    До 69 лет включительно — €50,
+    От 70 до 79 включительно — €100,
+    От 80 и старше — €200
 - [schengen.insure](https://www.schengen.insure/en)
 - [swisscare.com](https://swisscare.com/en/wizard)
 - [mondialcare.eu](https://www.mondialcare.eu/schengen-travel-insurance/)

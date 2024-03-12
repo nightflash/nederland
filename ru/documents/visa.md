@@ -98,7 +98,7 @@ _* Для онлайн приглашения сделанного через х
 - [schengen.insure](https://www.schengen.insure/en)
 - [swisscare.com](https://swisscare.com/en/wizard)
 - [mondialcare.eu](https://www.mondialcare.eu/schengen-travel-insurance/)
-  - Обратите внимание на условие "7 days waiting period" ([terms and conditions, page 3](https://api.mondialcare.eu/wp-content/uploads/2021/12/MC-SCHENGEN-TRAVEL-INSURANCE-bd-6.pdf)): в первые 7 дней со вступления страховки в силу часть страхового покрытия не действиет. Чтобы этого избежать, можно добавить 7 дополнительных дней страховки перед поездкой.
+  - Обратите внимание на условие "7 days waiting period" ([terms and conditions, page 3](https://api.mondialcare.eu/wp-content/uploads/2021/12/MC-SCHENGEN-TRAVEL-INSURANCE-bd-6.pdf)): в первые 7 дней со вступления страховки **не покрываются траты на госпитализацию**. Чтобы этого избежать, можно добавить 7 дополнительных дней страховки перед поездкой.
 
 ## Подача заявления на визу
 

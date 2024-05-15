@@ -138,6 +138,7 @@ _* Для онлайн приглашения сделанного через х
 * [Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
 * [Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
 * [Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
+* [Пример заполнения](https://ru-gr.gvcworld.eu/sites/default/files/paragraph/files/prefilled_template_adult_moscow.pdf)
 
 **Для тех кто не хочет/умеет работать с PDF**:
 

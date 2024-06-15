@@ -2,8 +2,7 @@
 
 ## Общая информация
 
-[Актуальная информация в оригинале](https://www.netherlandsworldwide.nl/crisis/russia):
-"Are you coming to the Netherlands for a maximum of 90 days to visit family? And do you have 1st or 2nd degree relatives in the Netherlands? Then you can apply for a Schengen visa at VFS Global in Moscow from July 31, 2023." 
+[Актуальная информация в оригинале](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-russian-federation):
 
 В настоящее время визы с целью посещения родственников выдаются для 1-й и 2-й категории родства.
 

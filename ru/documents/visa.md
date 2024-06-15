@@ -190,7 +190,10 @@
 
 ### Онлайн заполнение
 
-Идем на [mfaservices](https://consular.mfaservices.nl/schengen-visa/short-stay) и создаем анкету (кнопка внизу страницы ``` Vul het Aanvraagformulier in ```) для Армении. Для России и Беларуси заполнение анкет **недоступно**.
+Идем на [mfaservices](https://consular.mfaservices.nl/schengen-visa/short-stay) и создаем анкету для Армении.
+Кнопка внизу страницы ``` Vul het Aanvraagformulier in ```, появится после регистрации и авторизации.
+
+Для России и Беларуси заполнение анкет **недоступно**.
 
 ## Сроки
 

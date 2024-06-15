@@ -22,20 +22,30 @@
 
 ### Москва
 
-[Vfs Global](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/moscow)    
+[Vfs Global Moscow](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/moscow)    
 
 Адрес: Каширское ш., 3, корп. 2, стр. 9, Москва • БЦ Сириус Парк, этаж 2
 
-* [Ссылка на Яндекс карты](https://yandex.ru/maps/org/vfs_global/196140491828/?ll=37.631460%2C55.672488&z=15)
-* [Ссылка на Google карты](https://www.google.com/maps?&z=16&q=55.672512,37.630748)
+* [Ссылка на Яндекс карты](https://yandex.com/maps/-/CDrdF4is)
+* [Ссылка на Google карты](https://maps.app.goo.gl/buFjf11q3nG5edMy7)
 
 ### Петербург
 
-(ожидаем открытия ВЦ на прием с 10 июня)
+[Vfs Global Saint-Petersburg](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/stpetersburg)
+
+Адрес: Стремянная ул., 21/5, Санкт-Петербург, 191025 ( вход с улицы Марата).
+
+* [Ссылка на Яндекс карты](https://yandex.com/maps/-/CDrdBAJQ)
+* [Ссылка на Google карты](https://maps.app.goo.gl/Y4e6DWy2JuieF4YB8)
 
 ### Владивосток
 
-(ожидаем открытия ВЦ на прием с 10 июня)
+[Vfs Global Vladivostok](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/vladivostok)
+
+Адрес: 690091, Владивосток, Океанский проспект, 17, офис 601
+
+* [Ссылка на Яндекс карты](https://yandex.com/maps/-/CDrdFAjV)
+* [Ссылка на Google карты](https://maps.app.goo.gl/hWzLAPHwhXnXhzme8)
 
 ## Приглашение (спонсорское письмо)
 
@@ -123,7 +133,7 @@
 Есть 3 чата в Telegram:
 
 * [для общих обсуждений на тему виз](https://t.me/visa_babushek)
-* [тут пишут когда появляются слоты](https://t.me/slots_visa_babushek)
+* [тут пишут когда появляются слоты](https://t.me/slots_visa_babushek) (уже не пишут, потому что есть бот, см. ниже)
 * [тут автоматический бот пишет свободные слоты](https://t.me/vfs_ru_nl_slots)
 
 

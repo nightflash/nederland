@@ -147,14 +147,24 @@
 
 Визовую анкету необходимо **заполнять на компьютере**, заполненные от руки не принимаются!
 
-Визовая анкета заполняется на **АНГЛИЙСКОМ** языке. 
+Визовая анкета заполняется на **АНГЛИЙСКОМ** языке.
+
+Есть 3 варианта заполнения анкеты:
+1. Скачать PDF и заполнить с помощью программы редактора PDF-файлов
+2. Скачать .doc (Word) версию анкеты и заполнить ее в Microsoft Word / Pages
+3. Заполнить анкету онлайн для другой страны (например, Армении)
+
+### PDF файлы
 
 Ссылки на PDF файлы, для их редактирования понадобится какая-либо программа, либо встроенный Preview на Mac OS, либо что-то от Adobe на Mac/Windows.
 
-* [Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
-* [Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
-* [Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
+* [Анкета от VFS на Английском](https://www.vfsglobal.com/one-pager/netherlands/russia/russian/pdf/application-form.pdf)
+* [MFA Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
+* [MFA Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
+* [MFA Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
 * [Пример заполнения](https://ru-gr.gvcworld.eu/sites/default/files/paragraph/files/prefilled_template_adult_moscow.pdf)
+
+### Word (.doc) файл
 
 **Для тех кто не хочет/умеет работать с PDF**:
 
@@ -166,6 +176,10 @@
 **ИЛИ**
 
 * Слева сверху нажимаем **Файл** → **Создать копию** и заполняем онлайн.
+
+### Онлайн заполнение
+
+Идем на https://consular.mfaservices.nl/schengen-visa/short-stay и создаем анкету (кнопка внизу страницы ``` Vul het Aanvraagformulier in ```) для Армении. Для России и Беларуси заполнение анкет **недоступно**.
 
 ## Сроки
 

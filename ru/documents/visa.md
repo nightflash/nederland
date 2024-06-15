@@ -2,7 +2,7 @@
 
 ## Общая информация
 
-[Актуальная информация в оригинале](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-russian-federation):
+[Актуальная информация в оригинале](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa/apply-russian-federation)
 
 В настоящее время визы с целью посещения родственников выдаются для 1-й и 2-й категории родства.
 

@@ -17,6 +17,8 @@
 
 Вне зависимости от того является ли приглашающий резидентом или гражданином Нидерландов сейчас выдаются **однократные** на срок пребывания 30-45-60-90 дней и **мульти** визы на 1 год (стандартные 90 дней пребывания в радиусе 180).
 
+Виза **туристическая** - "С".
+
 ## Визовые центры
 
 ### Москва
@@ -175,15 +177,14 @@
 2. Скачать .doc (Word) версию анкеты и заполнить ее в Microsoft Word / Pages
 3. Заполнить анкету онлайн для другой страны (например, Армении)
 
+[Пример заполнения на взрослого](./files/prefilled_template_adult_moscow.pdf)
+
 ### PDF файлы
 
 Ссылки на PDF файлы, для их редактирования понадобится какая-либо программа, либо встроенный Preview на Mac OS, либо что-то от Adobe на Mac/Windows.
 
-* [Анкета от VFS на Английском](https://www.vfsglobal.com/one-pager/netherlands/russia/russian/pdf/application-form.pdf)
-* [MFA Русский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf) 
-* [MFA Английский язык](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_english.pdf)
-* [MFA Общая ссылка на анкеты](https://consular.mfaservices.nl/schengen-visa) (см. внизу страницы)
-* [Пример заполнения](https://ru-gr.gvcworld.eu/sites/default/files/paragraph/files/prefilled_template_adult_moscow.pdf)
+* [Анкета на Английском](https://www.vfsglobal.com/one-pager/netherlands/russia/russian/pdf/application-form.pdf)
+* [Анкета на Русском](https://consular.mfaservices.nl/assets/documents/pdf/forms/schengen_visa_application_form_russian.pdf)
 
 ### Word (.doc) файл
 

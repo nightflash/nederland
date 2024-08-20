@@ -22,3 +22,6 @@
 * [Здоровье и медицина](./medicine)
   * [Страховка и как ее выбрать](./medicine/insurance.md)
   * [Амбулаторная и экстренная помощь](./medicine/gp.md)
+* Дети
+  * [Образовательная система](./children/education.md) 
+  * [Виды школ](./children/school-types.md) 

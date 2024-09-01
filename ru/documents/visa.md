@@ -48,6 +48,15 @@
 * [Ссылка на Яндекс карты](https://yandex.com/maps/-/CDrdFAjV)
 * [Ссылка на Google карты](https://maps.app.goo.gl/hWzLAPHwhXnXhzme8)
 
+### Екатеринбург
+
+[Vfs Global Yekaterinburg](https://visa.vfsglobal.com/rus/ru/est/attend-centre/yekaterinburg)
+
+Адрес: 620026, Екатеринбург, л. Куйбышева, д. 44 А, 2 этаж, бизнес-отель «Панорама» (вход с улицы Белинского)
+
+* [Ссылка на Яндекс карты](https://yandex.ru/maps/-/CDwJE26m)
+* [Ссылка на Google карты](https://maps.app.goo.gl/zEdTpXRfQAVNfkXS6)
+
 ## Приглашение (спонсорское письмо)
 
 Для того чтобы Ваш родственник мог податься на визу ему необходимо предоставить спонсорское письмо.

@@ -62,10 +62,10 @@
 Для того чтобы Ваш родственник мог податься на визу ему необходимо предоставить спонсорское письмо.
 
 Есть 2 способа сделать это письмо/приглашение:
-1. Скачать, заполнить и распечатать [формуляр](https://ind.nl/nl/formulieren/1310.pdf). Затем прийти в любую Хементу и заверить свои подписи ([legalisatie handtekening](https://www.amsterdam.nl/veelgevraagd/waar-kan-ik-mijn-handtekening-laten-legaliseren-2e812-kp)) на нем.
-  При заверении подписи при себе иметь загран паспорт и permit/id.
-2. Заказать приглашение онлайн на сайте **любой** Хементы через DigiD. (напр. [Amsterdam](https://www.amsterdam.nl/veelgevraagd/bewijs-van-garantstelling-of-onderdak-voor-bezoek-uit-het-buitenland-2f94a#:~:text=Een%20Bewijs%20van%20garantstelling%20of,is%20nodig%20voor%20een%20visum.), [Amstelveen](https://www.amstelveen.nl/regelen-aanvragen/product/identiteitsbewijs-rijbewijs-en-uittreksel_uittreksels-en-registers_bezoek-uit-het-buitenland-ontvangen)).
-  Готовое спонсорское письмо придет к вам домой по почте в течение недели.
+1. Полностью онлайн — на сайте **любой** хементы через DigiD. Я рекомендую [Amstelveen за 13 евро](https://www.amstelveen.nl/regelen-aanvragen/product/identiteitsbewijs-rijbewijs-en-uittreksel_uittreksels-en-registers_bezoek-uit-het-buitenland-ontvangen).
+   Готовое спонсорское письмо придет к вам домой по почте (физической) в течение недели.
+2. Офлайн — скачать, заполнить и распечатать [формуляр](https://ind.nl/nl/formulieren/1310.pdf). Затем прийти в любую Хементу и заверить свои подписи ([legalisatie handtekening](https://www.amsterdam.nl/veelgevraagd/waar-kan-ik-mijn-handtekening-laten-legaliseren-2e812-kp)) на нем.
+   При заверении подписи при себе иметь загран паспорт и permit/id. В зависимости от хементы очередь не легализацию подписи может достигать месяца и даже больше.
 
 Приглашение включает в себя 2 пункта:
 

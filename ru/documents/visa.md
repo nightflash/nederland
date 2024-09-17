@@ -217,7 +217,7 @@
 
 Официально срок рассмотрения визы **до 45 дней**.
 
-Отследить статус заявления в ВЦ [можно тут](https://vfsrus.vfsglobal.com/Global-PassportTracking/).
+Отследить статус заявления в ВЦ [можно тут](https://visa.vfsglobal.com/rus/ru/nld/track-application).
 Отследить доставку [тут](https://fox-express.ru/tracking/).
 
 ## Как добраться до Нидерландов с туристической визой

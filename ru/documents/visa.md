@@ -165,6 +165,7 @@
 
 Страховые компании позволяющие застраховать граждан РФ:
 - [swisscare.com](https://swisscare.com/en/wizard)
+  - выбираем "**International Travel Insurance**", а не "Low Cost Schengen Visa Insurance" 
   - в случае если будет нужно изменить даты, требуется заказать новый полис, а на старый оформить возврат.
   - **НЕ** страхуют после 69 лет.
 - [oomverzekeringen.nl](http://www.oomverzekeringen.nl)

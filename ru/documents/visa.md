@@ -61,7 +61,7 @@
 
 ### Екатеринбург
 
-[Vfs Global Yekaterinburg](https://visa.vfsglobal.com/rus/ru/est/attend-centre/yekaterinburg)
+[Vfs Global Yekaterinburg](https://visa.vfsglobal.com/rus/ru/nld/attend-centre/yekaterinburg)
 
 Адрес: 620026, Екатеринбург, л. Куйбышева, д. 44 А, 2 этаж, бизнес-отель «Панорама» (вход с улицы Белинского)
 

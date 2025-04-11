@@ -304,5 +304,5 @@
 
 Я буду признателен за донат на кофе и пироженку.
 
-* В России: [Тинькофф](https://www.tinkoff.ru/cf/5Y2zL1Bby8m)
+* В России: [Тинькофф](https://www.tbank.ru/cf/8KsxuxtnBwm)
 * В Европе: [Revolut](https://revolut.me/spbmax)

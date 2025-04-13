@@ -231,7 +231,7 @@
 
 [Пример заполнения на взрослого](./files/prefilled_template_adult_moscow.pdf)
 
-### Онлайн заполнение (предпочтительное)
+### Онлайн заполнение (рекомендуется)
 
 Идем на [mfaservices](https://consular.mfaservices.nl/schengen-visa/short-stay), выбираем Английский язык, регистрируемся и заполняем анкету(ы).
 

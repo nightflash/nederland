@@ -19,9 +19,15 @@
 * Недвижимость 
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)
+    * [Как снизить ставку бесплатно](./housing/percent.md)
 * [Здоровье и медицина](./medicine)
   * [Страховка и как ее выбрать](./medicine/insurance.md)
   * [Амбулаторная и экстренная помощь](./medicine/gp.md)
 * Дети
   * [Образовательная система](./children/education.md) 
   * [Виды школ](./children/school-types.md) 
+
+Я буду признателен за донат на кофе и пироженку.
+
+* В России: [Тинькофф](https://www.tbank.ru/cf/8KsxuxtnBwm)
+* В Европе: [Revolut](https://revolut.me/spbmax)

@@ -95,7 +95,7 @@
 
 ## Необходимые документы
 
-[Список от визового центра](https://www.vfsglobal.com/one-pager/netherlands/russia/russian/pdf/checklist-tourism-russia-28-11-2024.pdf)
+[Список от визового центра](https://visa.vfsglobal.com/one-pager/netherlands/russia/english/pdf/checklist-visiting-family.pdf)
 
 [Список от Нидерландов для приглашающего, см. Step 4](https://www.netherlandsworldwide.nl/visa-the-netherlands/sponsoring)
 

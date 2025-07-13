@@ -186,6 +186,7 @@
   - выбираем "**International Travel Insurance**", а не "Low Cost Schengen Visa Insurance" 
   - в случае если будет нужно изменить даты, требуется заказать новый полис, а на старый оформить возврат.
   - **НЕ** страхуют после 69 лет.
+  - 'policy holder' можно указать себя (принимающего в НЛ)
 - [oomverzekeringen.nl](http://www.oomverzekeringen.nl)
   - В зависимости от возраста **есть франшиза** (Eigen risico):
     До 69 лет включительно — €50,

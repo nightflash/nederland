@@ -184,7 +184,7 @@ _Если вы соответствуете этим условиям, то та
 **Видео инструкция по заполнению анкеты**:
 
 <video width="320" height="240" controls>
-  <source src="./files/visa_form_guide.mp4" type="video/mp4">
+  <source src="./files/visa_form_guide.mp4?v=2" type="video/mp4">
 </video>
 
 Визовая анкета заполняется на **АНГЛИЙСКОМ** языке. После заполнения анкету **нужно распечатать**.

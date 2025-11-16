@@ -42,3 +42,6 @@ https://www.google.com/maps/search/Huisartsenpraktijk/@52.3541856,4.8630318,13.2
 
 Небольшой FAQ с примерами когда надо или не надо звонить в 112:
 https://www.government.nl/topics/emergency-number-112/question-and-answer/when-can-i-call-112
+
+> ☕️ **Угостите автора чашечкой кофе**  
+> [**Подарить кофе →**](../donate.md)

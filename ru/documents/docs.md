@@ -61,3 +61,6 @@ https://www.amstelveen.nl/regelen-aanvragen/product/immigratie-en-inburgering_ee
 * Заказываем доступ, для этого нам нужен BSN и постоянный адрес: https://www.digid.nl/en/apply-and-activate/apply-digid
 * Активируем доступ: https://www.digid.nl/en/apply-and-activate/activate-your-digid
 * Повышаем уровень своего приложения-ключа с помощью местного ID, это позволит авторизовываться в большем количестве онлайн сервисов. Однако, permit не подходит для этой задачи, поэтому вам придется отложить этот пункт до обмена или получения местного водительского удостоверения.
+
+> ☕️ **Угостите автора чашечкой кофе**  
+> [**Подарить кофе →**](../donate.md)

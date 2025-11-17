@@ -55,5 +55,7 @@
 * [Реестр присяжных переводчиков](https://zoekeentolkvertaler.bureauwbtv.nl/)
 * [Тарифы налоговой eigenwoningforfait на 2023г.](https://www.belastingdienst.nl/wps/wcm/connect/nl/koopwoning/content/hoe-werkt-eigenwoningforfait)
 
+### Сказать спасибо
+
 > ☕️ **Угостите автора чашечкой кофе**  
 > [**Подарить кофе →**](../donate.md)

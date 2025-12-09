@@ -152,7 +152,7 @@ _Если вы соответствуете этим условиям, то та
     От 70 до 79 включительно — €100,
     От 80 и старше — €200
 - [mondialcare.eu](https://www.mondialcare.eu/schengen-travel-insurance/)
-  - Обратите внимание на условие "7 days waiting period" ([terms and conditions, page 3](https://api.mondialcare.eu/wp-content/uploads/2021/12/MC-SCHENGEN-TRAVEL-INSURANCE-bd-6.pdf)): в первые 7 дней со вступления страховки **не покрываются траты на госпитализацию**. Чтобы этого избежать, можно добавить 7 дополнительных дней страховки перед поездкой.
+  - Обратите внимание на условие "7 days waiting period" ([terms and conditions, page 3](https://api.mondialcare.eu/wp-content/uploads/2025/11/MC-SCHENGEN-TRAVEL-INSURANCE-bd.pdf?_gl=1*neti35*_gcl_aw*R0NMLjE3NjUyNzAxNzYuQ2owS0NRaUFydF9KQmhDVEFSSXNBRFFaYXltTXNqc1N1SVpDczYwRE1EZGRKcVd2S3U5SnladEtxNnJpaHo0cEVneXdWcjY0NF9ocFc0RWFBakhSRUFMd193Y0I.*_gcl_au*OTM0NDI3NTA3LjE3NjUyNzAxMzk.*_ga*MTQ1Mjc4Njk0OC4xNzY1MjcwMTM5*_ga_MZVNF6441L*czE3NjUyNzAxMzkkbzEkZzEkdDE3NjUyNzAyMDQkajUyJGwwJGgxODg2ODc3MTA0)): в первые 7 дней со вступления страховки **не покрываются траты на госпитализацию**. Чтобы этого избежать, можно добавить 7 дополнительных дней страховки перед поездкой (upd dec2025: сотрудники Mondial говорят, что это не поможет, но это противоречит их же условиям страхования).
 - [schengen.insure](https://www.schengen.insure/en)
 - [страховка 79+](https://insurte.com/schengen-travel-insurance)
 

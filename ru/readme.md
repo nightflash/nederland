@@ -17,6 +17,9 @@
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
   * [Биометрический паспорт для ребенка](./documents/biometric-passport-for-child.md)
   * [Виза в Нидерланды для родственников](./documents/visa.md)
+* [Интеграция](./integration)
+  * [ПМЖ](./integration/prp.md)
+  * [Гражданство](./integration/citizenship.md)
 * Недвижимость 
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)

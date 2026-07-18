@@ -29,6 +29,7 @@
   * [Амбулаторная и экстренная помощь](./medicine/gp.md)
 * Дети
   * [Образовательная система](./children/education.md) 
+  * [Прескул и VVE-индикация](./children/preschool.md)
   * [Виды школ](./children/school-types.md) 
 
 ### Сказать спасибо

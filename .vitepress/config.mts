@@ -1,12 +1,72 @@
 import { defineConfig } from 'vitepress';
 
+const siteUrl = 'https://guide.devnul.nl';
+
+function getCanonicalUrl(page: string) {
+  const path = page
+    .replace(/(^|\/)index\.md$/, '$1')
+    .replace(/\.md$/, '');
+
+  return new URL(path ? `/${path}` : '/', siteUrl).href;
+}
+
 export default defineConfig({
   srcDir: './ru',
   lang: 'ru-RU',
   title: 'Нидерланды',
-  description: 'Практический гид по жизни в Нидерландах',
+  titleTemplate: ':title | Гид по Нидерландам',
+  description:
+    'Практический русскоязычный гид по документам, жилью, медицине и интеграции в Нидерландах.',
   cleanUrls: true,
   lastUpdated: true,
+  sitemap: {
+    hostname: siteUrl,
+  },
+
+  head: [
+    ['meta', { property: 'og:locale', content: 'ru_RU' }],
+    ['meta', { property: 'og:site_name', content: 'Гид по Нидерландам' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+  ],
+
+  transformHead({ page, pageData, title, description }) {
+    if (pageData.isNotFound) return;
+
+    const canonicalUrl = getCanonicalUrl(page);
+    const isHomePage = canonicalUrl === `${siteUrl}/`;
+    const structuredData = {
+      '@context': 'https://schema.org',
+      '@type': isHomePage ? 'WebSite' : 'WebPage',
+      name: pageData.title,
+      description,
+      url: canonicalUrl,
+      inLanguage: 'ru-RU',
+      ...(isHomePage
+        ? {}
+        : {
+            isPartOf: {
+              '@type': 'WebSite',
+              name: 'Гид по Нидерландам',
+              url: siteUrl,
+            },
+          }),
+    };
+
+    return [
+      ['link', { rel: 'canonical', href: canonicalUrl }],
+      ['meta', { property: 'og:type', content: isHomePage ? 'website' : 'article' }],
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'og:url', content: canonicalUrl }],
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }],
+      [
+        'script',
+        { type: 'application/ld+json' },
+        JSON.stringify(structuredData).replace(/</g, '\\u003c'),
+      ],
+    ];
+  },
 
   rewrites: {
     'readme.md': 'index.md',

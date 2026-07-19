@@ -99,7 +99,7 @@ export default defineConfig({
             text: 'Новорождённый ребёнок',
             link: '/documents/newborn',
             items: [
-              { text: 'Фото на документы', link: '/documents/newborn-photos' },
+              { text: 'Фото своими руками', link: '/documents/newborn-photos' },
               {
                 text: 'Биометрический паспорт',
                 link: '/documents/biometric-passport-for-child',

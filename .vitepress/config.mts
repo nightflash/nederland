@@ -100,6 +100,10 @@ export default defineConfig({
             link: '/documents/newborn',
             items: [
               { text: 'Фото на документы', link: '/documents/newborn-photos' },
+              {
+                text: 'Биометрический паспорт',
+                link: '/documents/biometric-passport-for-child',
+              },
             ],
           },
           { text: 'Виза для родственников', link: '/documents/visa' },

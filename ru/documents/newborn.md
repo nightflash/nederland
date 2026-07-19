@@ -97,7 +97,7 @@
 
 Отзывы на мои переводы:
 
-<div style="text-align: center"><img src="images/translation_reviews.png" width="500"/></div>
+<div style="text-align: center"><img src="./images/translation_reviews.png" width="500"/></div>
 
 Присяжный перевод стоит не менее 100 евро и зачастую имеет очень посредственный шаблон и качество исполнения.
 

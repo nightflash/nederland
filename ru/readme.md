@@ -11,13 +11,13 @@
 
 Оглавление русскоязычной версии:
 
-* [Документы](./documents)
+* [Документы](/documents/)
   * [Основные документы - Permit, BSN, DigiD](./documents/docs.md)
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
   * [Биометрический паспорт для ребенка](./documents/biometric-passport-for-child.md)
   * [Виза в Нидерланды для родственников](./documents/visa.md)
-* [Интеграция](./integration)
+* [Интеграция](/integration/)
   * [Интеграционные экзамены](./integration/exams.md)
   * [ПМЖ](./integration/prp.md)
   * [Гражданство](./integration/citizenship.md)
@@ -25,7 +25,7 @@
   * [Аренда](./housing/rent.md)
   * [Покупка](./housing/buy.md)
     * [Как снизить ставку бесплатно](./housing/percent.md)
-* [Здоровье и медицина](./medicine)
+* [Здоровье и медицина](/medicine/)
   * [Страховка и как ее выбрать](./medicine/insurance.md)
   * [Амбулаторная и экстренная помощь](./medicine/gp.md)
 * Дети

@@ -4,7 +4,7 @@
 
 Кроме того, процентная ставка тем выше, чем меньше вклад ваших собственных средств (первый взнос).
 
-<div style="text-align: center"><img src="files/percent.png" width="500"/></div>
+<div style="text-align: center"><img src="./files/percent.png" width="500"/></div>
 
 Там 4 брекета в зависимости от суммы ипотеки относительно текущей рыночной стоимости дома:
 1. 90% - 100% - вы берете ипотеку на больше чем 90% стоимости дома
@@ -28,7 +28,7 @@
 
 Для этого идем в **Overzicht** Ипотеки, затем кликаем на нашу **недвижимость** и затем нажимаем на **Overwaarde check**.
 
-<div style="text-align: center"><img src="files/percent-taxatie.png" width="500"/></div>
+<div style="text-align: center"><img src="./files/percent-taxatie.png" width="500"/></div>
 
 В моем случае спустя 2 года произошел переход из брекета 90-100 в 85-90, причем через пару месяцев возможно удастся по той же таксации прыгнуть в 65-85.
 

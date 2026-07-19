@@ -16,7 +16,7 @@
 
 На выходе этого шага у нас должно быть что-то вроде:
 
-<div style="text-align: center"><img src="images/image2.png" width="500"/></div>
+<div style="text-align: center"><img src="./images/image2.png" width="500"/></div>
 
 ### Создаем шаблон для фото
 
@@ -24,13 +24,13 @@
 
 Такой же шаблон создаем для фото для IND.
 
-<div style="text-align: center"><img src="images/image.png" width="500"/></div>
+<div style="text-align: center"><img src="./images/image.png" width="500"/></div>
 
 ### Фото для консульства
 
 Позиционируем и масштабируем ребенка. Верхний край головы должен быть на расстоянии от 2 до 5 мм от верхнего края кадра. Овал головы по высоте от 30 до 34 мм.
 
-<div style="text-align: center"><img src="images/image1.png" width="500"/></div>
+<div style="text-align: center"><img src="./images/image1.png" width="500"/></div>
 
 Делаем рамочку 1px вокруг фото: `Filters -> Decor -> Add border...`
 
@@ -38,15 +38,15 @@
 
 [Требования к фото.](https://www.government.nl/topics/identification-documents/requirements-for-photos)
 
-<div style="text-align: center"><img src="images/image3.png" width="500"/></div>
+<div style="text-align: center"><img src="./images/image3.png" width="500"/></div>
 
 Делаем рамочку 1px вокруг фото: `Filters -> Decor -> Add border...`
 
 ### Делаем фотокарточку для печати 10x15
 
 <div style="text-align: center">
-    <img src="images/image4.png" width="500"/>
-    <img src="images/image5.png" width="500"/>
+    <img src="./images/image4.png" width="500"/>
+    <img src="./images/image5.png" width="500"/>
 </div>
 
 Печатаем на обычном принтере и проверяем что все размеры сошлись.

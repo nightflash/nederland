@@ -6,6 +6,8 @@
 # Node artifact files
 node_modules/
 dist/
+.vitepress/cache
+.vitepress/dist
 
 # Compiled Java class files
 *.class
@@ -47,4 +49,3 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-

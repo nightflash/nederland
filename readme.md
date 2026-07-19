@@ -1,5 +1,7 @@
 # Guide about life in NL
 
-* [Russian version](./ru)
+The reader-friendly Russian version is available at [guide.devnul.nl](https://guide.devnul.nl/).
+
+* [Russian Markdown sources](./ru)
 
 Other languages to be continued...

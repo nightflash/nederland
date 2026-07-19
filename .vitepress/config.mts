@@ -35,8 +35,13 @@ export default defineConfig({
           { text: 'Обзор', link: '/documents/' },
           { text: 'Permit, BSN и DigiD', link: '/documents/docs' },
           { text: 'Доверенности', link: '/documents/notary' },
-          { text: 'Ребёнок в Нидерландах', link: '/documents/newborn' },
-          { text: 'Фото на документы', link: '/documents/newborn-photos' },
+          {
+            text: 'Новорождённый ребёнок',
+            link: '/documents/newborn',
+            items: [
+              { text: 'Фото на документы', link: '/documents/newborn-photos' },
+            ],
+          },
           { text: 'Виза для родственников', link: '/documents/visa' },
         ],
       },
@@ -73,6 +78,7 @@ export default defineConfig({
           { text: 'Виды школ', link: '/children/school-types' },
         ],
       },
+      { text: '☕ Поддержать проект', link: '/donate' },
     ],
 
     outline: {

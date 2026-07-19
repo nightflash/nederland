@@ -2,7 +2,7 @@
 
 ## Коротко
 
-1. Проверьте в Mijn Inburgering, какие именно экзамены нужны в вашем случае.
+1. Проверьте в [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp), какие именно экзамены нужны в вашем случае.
 2. Запишитесь на экзамены заранее: их можно сдавать задолго до подачи на ПМЖ или гражданство.
 3. После сдачи всех обязательных частей получите цифровой диплом в Mijn Diploma's.
 
@@ -21,11 +21,11 @@ Kennismigranten обычно не обязаны интегрироваться 
 - знание нидерландского общества (`KNM`);
 - ориентация на рынке труда (`ONA`).
 
-Точный список всегда проверяйте в Mijn Inburgering: он зависит от применимого закона, даты начала интеграции и возможных освобождений. [Список экзаменов DUO](https://www.inburgeren.nl/examen-doen/index.jsp).
+Точный список всегда проверяйте в [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp): он зависит от применимого закона, даты начала интеграции и возможных освобождений. [Список экзаменов DUO](https://www.inburgeren.nl/examen-doen/index.jsp).
 
 ### Освобождение от ONA
 
-Если вы работали в Нидерландах не менее **6 месяцев за последние 12 месяцев** и не менее **48 часов в месяц**, можно запросить освобождение от ONA через Mijn Inburgering. DUO принимает решение в течение 8 недель. [Условия освобождения от ONA](https://www.inburgeren.nl/minder-of-geen-examens/vrijstelling-orientatie-op-de-nederlandse-arbeidsmarkt.jsp).
+Если вы работали в Нидерландах не менее **6 месяцев за последние 12 месяцев** и не менее **48 часов в месяц**, можно запросить освобождение от ONA через [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp). DUO принимает решение в течение 8 недель. [Условия освобождения от ONA](https://www.inburgeren.nl/minder-of-geen-examens/vrijstelling-orientatie-op-de-nederlandse-arbeidsmarkt.jsp).
 
 ## B1-route
 
@@ -35,7 +35,13 @@ Kennismigranten обычно не обязаны интегрироваться 
 
 ## Запись и подготовка
 
-На A2 и KNM записываются через Mijn Inburgering. Экзамены можно сдавать в любом доступном экзаменационном центре — если рядом нет свободных мест, проверьте другие города.
+Место записи зависит от экзамена:
+
+- языковые экзамены A2, а также KNM и ONA — через [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp);
+- языковые экзамены B1 и B2 (`Staatsexamen Nt2`) — через [Mijn DUO](https://www.duo.nl/particulier/staatsexamen-nt2/aanmelden.jsp);
+- MAP и PVT — через свою gemeente.
+
+Для B1 выбирайте `Staatsexamen Nt2 Programma I`. Зарегистрироваться можно примерно за 8 недель до экзамена. Экзамены можно сдавать в любом доступном экзаменационном центре — если рядом нет свободных мест, проверьте другие города.
 
 [Пробные экзамены DUO](https://www.inburgeren.nl/examen-doen/oefenen.jsp) повторяют формат настоящих экзаменов.
 
@@ -47,7 +53,9 @@ Kennismigranten обычно не обязаны интегрироваться 
 
 ## Получение диплома
 
-Результат экзаменов A2 и KNM появляется в Mijn Inburgering и приходит письмом в течение 8 недель. После сдачи всех обязательных частей дождитесь итогового письма от DUO, затем откройте Mijn Inburgering → `Diploma`. Система перенаправит вас в Mijn Diploma's, где можно скачать цифровой диплом.
+Результат экзаменов A2 и KNM появляется в [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp) и приходит письмом в течение 8 недель. Результаты B1 и B2 появляются в [Mijn DUO](https://www.duo.nl/particulier/staatsexamen-nt2/uitslag.jsp) примерно через 5 недель.
+
+После сдачи всех обязательных частей дождитесь итогового письма от DUO, затем откройте [Mijn Inburgering](https://www.inburgeren.nl/inloggen-mijn-inburgering/index.jsp) → `Diploma`. Система перенаправит вас в Mijn Diploma's, где можно скачать цифровой диплом.
 
 С 1 января 2026 года цифровой диплом является основным. Он бесплатный, принимается IND и муниципалитетами и имеет ту же силу, что и заверенная копия. **Передавайте его в цифровом виде: распечатка цифрового диплома недействительна.**
 

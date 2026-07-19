@@ -18,6 +18,7 @@
   * [Биометрический паспорт для ребенка](./documents/biometric-passport-for-child.md)
   * [Виза в Нидерланды для родственников](./documents/visa.md)
 * [Интеграция](./integration)
+  * [Интеграционные экзамены](./integration/exams.md)
   * [ПМЖ](./integration/prp.md)
   * [Гражданство](./integration/citizenship.md)
 * Недвижимость 

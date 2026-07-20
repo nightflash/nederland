@@ -157,6 +157,14 @@ export default defineConfig({
 
     lastUpdated: {
       text: 'Обновлено',
+      formatOptions: {
+        forceLocale: true,
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+      },
     },
 
     editLink: {

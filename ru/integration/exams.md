@@ -51,7 +51,7 @@ Kennismigranten обычно не обязаны интегрироваться 
 
 ### Как подготовиться к KNM
 
-По нашему опыту, для KNM достаточно понимать формулировки вопросов, прочитать книгу [Welkom in Nederland](https://www.boom.nl/product/100-19670_Welkom-in-Nederland-herziene-editie) и потренироваться в [KNM Kompas](https://www.devnul.nl/knm-kompas).
+По нашему опыту, для KNM достаточно понимать формулировки вопросов, прочитать книгу [Welkom in Nederland](https://www.boom.nl/product/100-19670_Welkom-in-Nederland-herziene-editie) и потренироваться в [KNM Kompas](https://kompas.devnul.nl/).
 
 Берите актуальное, четвертое переработанное издание 2025 года: оно приведено в соответствие с новыми требованиями KNM и заметно отличается от предыдущего.
 

@@ -1,1 +1,10 @@
-/* Custom reader styles will go here. */
+/* Keep the site copyright visible on pages that use the documentation sidebar. */
+.VPFooter.has-sidebar {
+  display: block !important;
+}
+
+@media (min-width: 960px) {
+  .VPFooter.has-sidebar {
+    padding-left: calc(var(--vp-sidebar-width) + 32px);
+  }
+}

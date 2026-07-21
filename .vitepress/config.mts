@@ -1,6 +1,12 @@
 import { defineConfig } from 'vitepress';
 
 const siteUrl = 'https://guide.devnul.nl';
+const copyrightStartYear = 2026;
+const currentYear = new Date().getFullYear();
+const copyrightYears =
+  currentYear > copyrightStartYear
+    ? `${copyrightStartYear}–${currentYear}`
+    : `${copyrightStartYear}`;
 
 function getCanonicalUrl(page: string) {
   const path = page
@@ -153,6 +159,11 @@ export default defineConfig({
     docFooter: {
       prev: 'Назад',
       next: 'Дальше',
+    },
+
+    footer: {
+      copyright:
+        `© ${copyrightYears} <a href="https://devnul.nl" target="_blank" rel="noopener noreferrer">Maksim Erekhinskii</a>`,
     },
 
     lastUpdated: {

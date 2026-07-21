@@ -119,6 +119,7 @@ export default defineConfig({
         text: 'Интеграция',
         items: [
           { text: 'Обзор', link: '/integration/' },
+          { text: 'Оценка диплома', link: '/integration/diploma-evaluation' },
           { text: 'Интеграционные экзамены', link: '/integration/exams' },
           { text: 'ПМЖ', link: '/integration/prp' },
           { text: 'Гражданство', link: '/integration/citizenship' },

@@ -1,12 +1,41 @@
 import { defineConfig } from 'vitepress';
 
 const siteUrl = 'https://guide.devnul.nl';
+const googleTagManagerId = 'GTM-53JM2XB7';
 const copyrightStartYear = 2026;
 const currentYear = new Date().getFullYear();
 const copyrightYears =
   currentYear > copyrightStartYear
     ? `${copyrightStartYear}–${currentYear}`
     : `${copyrightStartYear}`;
+
+const googleTagManagerHead = `
+    <!-- Google Tag Manager -->
+    <script>
+      ;(function (w, d, s, l, i) {
+        w[l] = w[l] || []
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : ''
+        j.async = true
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+        f.parentNode.insertBefore(j, f)
+      })(window, document, 'script', 'dataLayer', '${googleTagManagerId}')
+    </script>
+    <!-- End Google Tag Manager -->`;
+
+const googleTagManagerBody = `
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=${googleTagManagerId}"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->`;
 
 function getCanonicalUrl(page: string) {
   const path = page
@@ -72,6 +101,12 @@ export default defineConfig({
         JSON.stringify(structuredData).replace(/</g, '\\u003c'),
       ],
     ];
+  },
+
+  transformHtml(html) {
+    return html
+      .replace('<head>', `<head>${googleTagManagerHead}`)
+      .replace('<body>', `<body>${googleTagManagerBody}`);
   },
 
   rewrites: {

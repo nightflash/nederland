@@ -123,6 +123,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Главная', link: '/' },
+      { text: 'Новости Нидерландов', link: 'https://news.devnul.nl/' },
       {
         text: 'GitHub',
         link: 'https://github.com/nightflash/nederland',

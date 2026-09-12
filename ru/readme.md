@@ -21,6 +21,7 @@ description: Практический русскоязычный гид для �
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
   * [Биометрический паспорт для взрослого](./documents/biometric-passport-for-adult.md)
+  * [Выход из гражданства России](./documents/renunciation-of-russian-citizenship.md)
   * [Биометрический паспорт для ребенка](./documents/biometric-passport-for-child.md)
   * [Виза в Нидерланды для родственников](./documents/visa.md)
 * [Интеграция](/integration/)

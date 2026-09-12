@@ -142,6 +142,10 @@ export default defineConfig({
             link: '/documents/biometric-passport-for-adult',
           },
           {
+            text: 'Выход из гражданства РФ',
+            link: '/documents/renunciation-of-russian-citizenship',
+          },
+          {
             text: 'Новорождённый ребёнок',
             link: '/documents/newborn',
             items: [

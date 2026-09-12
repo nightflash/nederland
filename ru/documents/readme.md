@@ -10,6 +10,7 @@ description: Документы для жизни в Нидерландах — 
 * [Доверенности для страны исхода](./notary.md)
 * [Ребенок рожденный в Нидерландах](./newborn.md)
 * [Биометрический загранпаспорт взрослому](./biometric-passport-for-adult.md)
+* [Выход из гражданства России](./renunciation-of-russian-citizenship.md)
 * [Биометрический загранпаспорт ребёнку](./biometric-passport-for-child.md)
 * [Виза в Нидерланды для родственников](./visa.md)
 

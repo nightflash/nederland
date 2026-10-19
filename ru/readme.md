@@ -20,6 +20,7 @@ description: Практический русскоязычный гид для �
   * [Основные документы - Permit, BSN, DigiD](./documents/docs.md)
   * [Доверенности для страны исхода](./documents/notary.md)
   * [Консульский учёт](./documents/consular-registration.md)
+  * [Снятие с воинского учёта](./documents/military-deregistration.md)
   * [Ребенок рожденный в Нидерландах](./documents/newborn.md)
   * [Биометрический паспорт для взрослого](./documents/biometric-passport-for-adult.md)
   * [Выход из гражданства России](./documents/renunciation-of-russian-citizenship.md)

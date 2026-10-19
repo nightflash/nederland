@@ -138,6 +138,7 @@ export default defineConfig({
           { text: 'Permit, BSN и DigiD', link: '/documents/docs' },
           { text: 'Доверенности', link: '/documents/notary' },
           { text: 'Консульский учёт', link: '/documents/consular-registration' },
+          { text: 'Снятие с воинского учёта', link: '/documents/military-deregistration' },
           {
             text: 'Биометрический паспорт взрослому',
             link: '/documents/biometric-passport-for-adult',

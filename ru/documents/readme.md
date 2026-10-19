@@ -9,6 +9,7 @@ description: Документы для жизни в Нидерландах — 
 * [Основные документы - Permit, BSN, DigiD](./docs.md)
 * [Доверенности для страны исхода](./notary.md)
 * [Консульский учёт](./consular-registration.md)
+* [Снятие с воинского учёта](./military-deregistration.md)
 * [Ребенок рожденный в Нидерландах](./newborn.md)
 * [Биометрический загранпаспорт взрослому](./biometric-passport-for-adult.md)
 * [Выход из гражданства России](./renunciation-of-russian-citizenship.md)

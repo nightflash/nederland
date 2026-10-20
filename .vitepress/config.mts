@@ -140,7 +140,7 @@ export default defineConfig({
           { text: 'Консульский учёт', link: '/documents/consular-registration' },
           { text: 'Снятие с воинского учёта', link: '/documents/military-deregistration' },
           {
-            text: 'Биометрический загранпаспорт',
+            text: 'Биометрический паспорт',
             link: '/documents/biometric-passport',
           },
           {

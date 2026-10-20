@@ -3,5 +3,17 @@
   "framework": "vitepress",
   "cleanUrls": true,
   "buildCommand": "npm run docs:build",
-  "outputDirectory": ".vitepress/dist"
+  "outputDirectory": ".vitepress/dist",
+  "redirects": [
+    {
+      "source": "/documents/biometric-passport-for-adult",
+      "destination": "/documents/biometric-passport",
+      "permanent": true
+    },
+    {
+      "source": "/documents/biometric-passport-for-child",
+      "destination": "/documents/biometric-passport#для-детей",
+      "permanent": true
+    }
+  ]
 }

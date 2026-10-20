@@ -11,9 +11,8 @@ description: Документы для жизни в Нидерландах — 
 * [Консульский учёт](./consular-registration.md)
 * [Снятие с воинского учёта](./military-deregistration.md)
 * [Ребенок рожденный в Нидерландах](./newborn.md)
-* [Биометрический загранпаспорт взрослому](./biometric-passport-for-adult.md)
+* [Биометрический загранпаспорт](./biometric-passport.md)
 * [Выход из гражданства России](./renunciation-of-russian-citizenship.md)
-* [Биометрический загранпаспорт ребёнку](./biometric-passport-for-child.md)
 * [Виза в Нидерланды для родственников](./visa.md)
 
 ### Сказать спасибо

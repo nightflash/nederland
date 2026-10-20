@@ -140,8 +140,8 @@ export default defineConfig({
           { text: 'Консульский учёт', link: '/documents/consular-registration' },
           { text: 'Снятие с воинского учёта', link: '/documents/military-deregistration' },
           {
-            text: 'Биометрический паспорт взрослому',
-            link: '/documents/biometric-passport-for-adult',
+            text: 'Биометрический загранпаспорт',
+            link: '/documents/biometric-passport',
           },
           {
             text: 'Выход из гражданства РФ',
@@ -152,10 +152,6 @@ export default defineConfig({
             link: '/documents/newborn',
             items: [
               { text: 'Фото своими руками', link: '/documents/newborn-photos' },
-              {
-                text: 'Биометрический паспорт',
-                link: '/documents/biometric-passport-for-child',
-              },
             ],
           },
           { text: 'Виза для родственников', link: '/documents/visa' },
